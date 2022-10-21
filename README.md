@@ -5,6 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ducna0610&label=Profile%20views&color=0e75b6&style=flat" alt="ducna0610" /> </p>
 
+
+### ℹ️ About Me
+
+- 🎓 &nbsp; I'm currently a software engineering student.
+
 </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducna0610&layout=compact&text_color=daf7dc&bg_color=222222)
