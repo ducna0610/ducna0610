@@ -8,9 +8,18 @@
 
 ### ℹ️ About Me
 
-- 🎓 &nbsp; I'm currently a software engineering student.
+- 💳 My full name is **Nguyễn Anh Đức** </h1><img src="https://media.tenor.com/2co4feAipsYAAAAM/hasbulla-hasbik.gif" width="240px" align="right"/>
+
+- 🏫 I’m currently the second year student at **Vietnam Academy of Cryptography Techniques - KMP**
+
+- 🌏 I'm living now in **Ho Chi Minh City, Viet Nam**
+
 
 </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducna0610&layout=compact&text_color=daf7dc&bg_color=222222)
 
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+ 
+</div>
