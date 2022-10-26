@@ -8,8 +8,7 @@
 
 ### ℹ️ About Me
 
-- 💳 My full name is **Nguyễn Anh Đức** </h1><img src="https://media.tenor.com/2co4feAipsYAAAAM/hasbulla-hasbik.gif" width="240px" align="right"/>
-
+- 💳 My full name is **Nguyễn Anh Đức**
 - 🏫 I’m currently the second year student at **Vietnam Academy of Cryptography Techniques - KMP**
 
 - 🌏 I'm living now in **Ho Chi Minh City, Viet Nam**
