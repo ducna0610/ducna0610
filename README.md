@@ -10,11 +10,13 @@
 
 - 💳 My full name is **Nguyễn Anh Đức**
 
-- **20 years old**
+-  I'm **20 years old**
 
 - 🏫 Student at **Vietnam Academy of Cryptography Techniques - KMP**
 
 - 🌏 I'm living now in **Ho Chi Minh City, Viet Nam**
+
+- 📫 How to reach me **ducna0610@gmail.com**
 
 
 </br>
