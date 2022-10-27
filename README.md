@@ -9,7 +9,10 @@
 ### ℹ️ About Me
 
 - 💳 My full name is **Nguyễn Anh Đức**
-- 🏫 I’m currently the second year student at **Vietnam Academy of Cryptography Techniques - KMP**
+
+- **20 years old**
+
+- 🏫 Student at **Vietnam Academy of Cryptography Techniques - KMP**
 
 - 🌏 I'm living now in **Ho Chi Minh City, Viet Nam**
 
