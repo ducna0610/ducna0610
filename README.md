@@ -18,7 +18,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducna0610&layout=compact&text_color=daf7dc&bg_color=222222)
 
-<div align="center">
+
+ <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
- 
+  &copy; 2022 Nguyen Anh Duc - ducna0610
 </div>
