@@ -6,8 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ducna0610&label=Profile%20views&color=0e75b6&style=flat" alt="ducna0610" /> </p>
 
 <!--Introduction-->
-<img align="right" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);"    src="https://media.giphy.com/media/BuReg1EyvWaac/giphy.gif" width="500">
-
+<img align="right" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 100%);"    src="https://media.giphy.com/media/BuReg1EyvWaac/giphy.gif" width="360">
 
 ### ℹ️ About Me
 
