@@ -12,13 +12,15 @@
 
 - 💳 My full name is **Nguyễn Anh Đức**
 
--  I'm **20 years old**
+- 🍰 I'm **20 years old**
 
 - 🏫 Student at **Vietnam Academy of Cryptography Techniques - KMP**
 
 - 🌏 I'm living now in **Ho Chi Minh City, Viet Nam**
 
 - 📫 How to reach me **ducna0610@gmail.com**
+
+- 📄 MyCV: [CV_VN]([https://en.wikipedia.org/wiki/Knight%27s_tour](https://www.topcv.vn/xem-cv/BFpRVlMFCwYGB1BcUAMBUQYNBAQFBAJXX1EABQ6649)) || [CV_EN]([https://en.wikipedia.org/wiki/Knight%27s_tour](https://www.topcv.vn/xem-cv/CgZVBFQEAF0LCQMNBlBRAAFSVFMAWgUEUwVQVw7342))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
