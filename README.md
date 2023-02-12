@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ducna0610@gmail.com**
 
-- 📄 MyCV: [CV_VN]([(https://www.topcv.vn/xem-cv/BFpRVlMFCwYGB1BcUAMBUQYNBAQFBAJXX1EABQ6649)]) || [CV_EN]([(https://www.topcv.vn/xem-cv/CgZVBFQEAF0LCQMNBlBRAAFSVFMAWgUEUwVQVw7342)])
+- 📄 MyCV: [CV_VN](https://www.topcv.vn/xem-cv/BFpRVlMFCwYGB1BcUAMBUQYNBAQFBAJXX1EABQ6649) || [CV_EN](https://www.topcv.vn/xem-cv/CgZVBFQEAF0LCQMNBlBRAAFSVFMAWgUEUwVQVw7342)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
